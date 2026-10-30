@@ -1,2 +1,5 @@
 print("Hello, Git!")
 print("Second line")
+name = input("Name: ")
+name = input("Name:sai ")
+print("Hi", name)
